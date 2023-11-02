@@ -65,8 +65,6 @@ public class PlaningTasks
         by_Lisa.date = "01.04.2024";
         by_Lisa.description = "Написание кода для лабораторной работы";
 
-        Lisa.outputperson(); //Вывод информации после изменения
-        by_Lisa.output();
 
         //Конец третьего задания
 
