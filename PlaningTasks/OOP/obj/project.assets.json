@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lisav\\Desktop\\lab\\PlaningTasks\\OOP\\OOP.csproj",
+      "projectUniqueName": "C:\\Users\\lisav\\Desktop\\lab\\My-projects\\PlaningTasks\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "C:\\Users\\lisav\\Desktop\\lab\\PlaningTasks\\OOP\\OOP.csproj",
+      "projectPath": "C:\\Users\\lisav\\Desktop\\lab\\My-projects\\PlaningTasks\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\lisav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lisav\\Desktop\\lab\\PlaningTasks\\OOP\\obj\\",
+      "outputPath": "C:\\Users\\lisav\\Desktop\\lab\\My-projects\\PlaningTasks\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
