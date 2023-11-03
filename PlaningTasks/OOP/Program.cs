@@ -3,7 +3,7 @@ using System;
 
 struct Task
 {
-    private string taskname;
+    public string taskname;
     public int priority;
     public string date;
     public string description;
