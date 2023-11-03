@@ -34,13 +34,13 @@ public class PlaningTasks
     public static void Main(string[] args)
     {
         //Инициализация структур и классов
-        //Task by_Lisa = new Task();
+        Task by_Lisa = new Task();
         Task by_other_student = new Task();
 
-        /*by_Lisa.taskname = "Laboratories";
+        by_Lisa.taskname = "Laboratories";
         by_Lisa.priority= 1;
         by_Lisa.date = "12.03.2025";
-        by_Lisa.description = "Trying to do works";*/
+        by_Lisa.description = "Trying to do works";
         
         by_other_student.taskname = "Homework";
         by_other_student.priority = 5;
@@ -52,7 +52,7 @@ public class PlaningTasks
         Lisa.surname = "Egorova";
         Lisa.contact = "@japanesepotatos";
 
-        Lisa.outputperson(); //Вывод информации до изменения
+        ЕЕЕЕЕLisa.outputperson(); //Вывод информации до изменения
         //by_Lisa.output();
 
         Person Somebody = new Person();
@@ -61,17 +61,17 @@ public class PlaningTasks
         Somebody.contact = "@tgchanel";
 
         //Изменение информации
-        /*by_Lisa.priority = 2;
+        by_Lisa.priority = 2;
         by_Lisa.date = "01.04.2024";
-        by_Lisa.description = "Написание кода для лабораторной работы";*/
+        by_Lisa.description = "Написание кода для лабораторной работы";
 
         Lisa.outputperson(); //Вывод информации после изменения
-        //by_Lisa.output();
+        by_Lisa.output();
 
         //Конец третьего задания
 
         //Задание 4
-
+        Task classmate = by_other_student with {taskname = "Teammate"}; //копирование структур
 
     }
 }
